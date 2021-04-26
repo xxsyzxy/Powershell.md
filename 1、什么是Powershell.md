@@ -16,3 +16,5 @@ get-service | get-member
 
 5.使用技巧  
 - 1）命令规律：动词-名词，eg：Get-help
+
+
